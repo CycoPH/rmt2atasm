@@ -1,0 +1,11 @@
+*.o
+*.lbl
+*.map
+*.xex
+.vs
+*.user
+*.filters
+Debug/
+Release/
+!bin/rmt2atasm.exe
+tune.asm
